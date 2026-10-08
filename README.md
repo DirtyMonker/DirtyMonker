@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=DirtyMonker&label=Profile%20views&color=0e75b6&style=flat" alt="DirtyMonker" />
 </p>
 
-<h1 align="center">Hi 👋, I'm DirtyMonker</h1>
+<h1 align="center">Hi 👋, I'm Mohamed </h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center">
@@ -13,10 +13,10 @@
 
 ### 🧠 About Me
 
-- 👨‍💻 I’m focused on building sleek UIs with modern frontend tools  
-- 🏃 I love walking — clears my mind and inspires my workflow  
-- 👯 I’m open to collaborating on web apps and frontend systems  
-- 🎯 My goal: Build interfaces that feel like magic ✨
+-  I’m focused on building sleek UIs with modern frontend tools  
+-  I love walking — clears my mind and inspires my workflow  
+-  I’m open to collaborating on web apps and frontend systems  
+-  My goal: Build interfaces that feel like magic ✨
 <img src="https://raw.githubusercontent.com/okineadev/okineadev/main/assets/animation.gif" alt="svg" /> 
 
  
